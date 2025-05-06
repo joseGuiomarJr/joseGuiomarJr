@@ -5,7 +5,7 @@
 Sou movido pela curiosidade e pela vontade constante de me aprimorar. Estou sempre em busca de novas oportunidades para expandir minhas habilidades e contribuir de forma significativa em projetos desafiadores. Acredito que minha capacidade de adaptação, combinada com uma abordagem orientada a resultados, pode ser um grande diferencial para empresas que visam a melhoria contínua em suas práticas de desenvolvimento de software.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseguiomarjr&label=Profile%20views&color=0e75b6&style=flat" alt="joseguiomarjr" /> </p>
 
-- 📫 How to reach me **tubabajr@gmail.com**
+- 📫 How to reach me **jratividades@hotmail.com or tutubajr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
