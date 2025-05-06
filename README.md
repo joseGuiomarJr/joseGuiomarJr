@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm José Jr.</h1>
+<h1 align="center">Hi 👋, I'm José Guiomar Jr.</h1>
 <h3 align="center">Analista de Sistemas</h3>
 <p>Oi, tudo bem? Sou José Jr. [Tubarão], Bacharel em Sistemas de Informação. Minha jornada começou no suporte helpdesk, onde adquiri uma base sólida em soluções técnicas e atendimento ao cliente. Essa experiência me impulsionou a evoluir para a área de desenvolvimento de software, onde descobri minha verdadeira paixão.
 
